@@ -11,6 +11,9 @@ TagManager:
   - ship
   - asteroid
   - WorldBorders
+  - Destr
+  - BG_MUSIC_VOLUME_SIDER
+  - BG_MUSIC_VOLUME_TEXT
   layers:
   - Default
   - TransparentFX
